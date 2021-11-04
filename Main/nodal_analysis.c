@@ -5,7 +5,7 @@
 	determine the potential difference between the nodes in an
 	electrical circuit.
 
-	The nodal analysis metod used in this program uses the hypothesis
+	The nodal analysis method used in this program uses the hypothesis
 	of current controlled sides of the electrical circuit.
 
 	Another hypothesis is that the electric circuit is linear and it is
