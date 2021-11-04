@@ -13,6 +13,7 @@
 	built by single bipolar elements.
 
 	It is applied on a circuit of 3 nodes.
+	Integer resistance and circuit injection only.
 
 */
 
