@@ -148,7 +148,7 @@ int main(int argc, char * argv[]){
 	printf("]");
 	printf("\n");
 
-	/* Calcuation of the Dx Dy and Dz matrices to utilize the Cramer rule */
+	/* Calculation of the Dx Dy and Dz matrices to utilize the Cramer rule */
 
 	for(i=0; i<NODES; j++){
 		for(j=0; j<NODES; j++){
