@@ -185,8 +185,7 @@ float determinantOfMatrix(float mat[NODES][NODES], int n)
     {
         // Getting Cofactor of mat[0][f]
         getCofactor(mat, temp, 0, f, n);
-        D += sign * mat[0][f]
-             * determinantOfMatrix(temp, n - 1);
+        D += sign * mat[0][f] * determinantOfMatrix(temp, n - 1);
  
         // terms are to be added with alternate sign
         sign = -sign;
